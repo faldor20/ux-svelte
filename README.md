@@ -1,7 +1,3 @@
-# Fork by ChqThomas
-
-https://github.com/symfony/ux/pull/2288
-
 # Symfony UX Svelte
 
 Symfony UX Svelte integrates [Svelte](https://svelte.dev/) into Symfony applications.
@@ -16,4 +12,3 @@ https://github.com/symfony/ux to create issues or submit pull requests.
 -   [Report issues](https://github.com/symfony/ux/issues) and
     [send Pull Requests](https://github.com/symfony/ux/pulls)
     in the [main Symfony UX repository](https://github.com/symfony/ux)
-
